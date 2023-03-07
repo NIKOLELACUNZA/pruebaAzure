@@ -1,0 +1,9 @@
+body{
+    background-color: #ccc !important;
+}
+
+div.container{
+    background-color: #ffff;
+    padding: 50px;
+    width: 600px;
+}
